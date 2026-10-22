@@ -1,39 +1,42 @@
-# Olá! Eu sou a Nicolly 👋
+# Oi! Eu sou a Nicolly 👋
 
-### Design, imagem e tecnologia em diálogo.
+### `ncllylab` — tecnologia, design e narrativas visuais.
 
-Sou uma profissional em formação, interessada em explorar diferentes linguagens visuais e transformar ideias em projetos criativos.
+Sou profissional de suporte técnico em TI em ambiente administrativo e estudante da área de Multimídia. Tenho interesse em explorar a conexão entre tecnologia, comunicação visual e produção audiovisual por meio de projetos criativos e acadêmicos.
 
-Meu trabalho transita entre design gráfico, fotografia, audiovisual e desenvolvimento web, unindo experimentação, pesquisa e comunicação visual.
-
-## ✳️ Áreas de interesse
-
-- 🎨 **Design gráfico:** identidades visuais e sistemas gráficos.
-- 📷 **Fotografia:** experimentação visual e narrativas por imagens.
-- 🎬 **Audiovisual:** linguagem, edição e produção de conteúdo.
-- 💻 **Desenvolvimento web:** interfaces e experiências digitais.
-- 📚 **Projetos acadêmicos:** pesquisa, processos criativos e experimentação.
-
-## 📂 Projetos em destaque
-
-Espaço dedicado a projetos autorais, acadêmicos e experimentais.
-
-- **Identidade visual** — conceitos, sistemas gráficos e aplicações de marca.
-- **Fotografia** — ensaios, registros e narrativas visuais.
-- **Projetos multimídia** — experimentações entre imagem, design e tecnologia.
-
-*Novos projetos serão adicionados conforme forem documentados.*
-
-## 🌱 Atualmente
-
-- Desenvolvendo meu repertório criativo e técnico.
-- Explorando conexões entre design, imagem e tecnologia.
-- Organizando meus projetos e aprendizados em um portfólio digital.
-
-## 🤝 Vamos trocar ideias?
-
-Tenho interesse em projetos criativos, colaborações e novas possibilidades de aprendizado.
+Este espaço reúne experiências, estudos e projetos que fazem parte da minha jornada profissional e criativa.
 
 ---
 
-<sub>Feito com criatividade, curiosidade e vontade de experimentar.</sub>
+## ✦ Sobre mim
+
+- 🖥️ Experiência com suporte técnico em TI e rotinas de ambiente administrativo.
+- 🎨 Interesse em design gráfico e comunicação visual.
+- 📷 Exploração da fotografia como linguagem visual.
+- 🎬 Interesse em produção audiovisual e projetos multimídia.
+- 📚 Em constante aprendizado, desenvolvendo novas ideias e habilidades.
+
+## ✦ Áreas de interesse
+
+**Design gráfico** · **Fotografia** · **Audiovisual** · **Multimídia** · **Tecnologia**
+
+## ✦ Projetos
+
+Aqui você encontrará projetos acadêmicos, experimentações visuais, fotografias e produções audiovisuais.
+
+> Cada projeto representa uma oportunidade de aprender, experimentar e transformar ideias em resultados visuais.
+
+*Em construção: novos projetos serão adicionados conforme minha jornada evolui.*
+
+## ✦ Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolly-satil-da-silva-ferreira-053ba6191/)
+- 🎨 [Portfólio](https://www.canva.com/design/DAG6iiC6Cak/NFC3jvVagXYahjVVk1_zhw/view?utm_content=DAG6iiC6Cak&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h668b772eab)
+- 📷 [Instagram — @nclly.raw](https://www.instagram.com/nclly.raw)
+- 🎥 [YouTube — @ncllyraw](https://www.youtube.com/@ncllyraw)
+
+---
+
+<p align="center">
+  <i>Entre a lógica da tecnologia e a liberdade da criação.</i>
+</p>
